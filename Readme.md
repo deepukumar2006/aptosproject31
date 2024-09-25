@@ -1,5 +1,6 @@
 
 # TaskAutomation Smart Contract
+![WhatsApp Image 2024-09-25 at 14 21 38_1c4e441c](https://github.com/user-attachments/assets/f1c13ce6-cee0-4fd1-a553-465b52daa61a)
 
 ## Vision
 
