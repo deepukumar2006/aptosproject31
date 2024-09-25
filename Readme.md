@@ -1,6 +1,4 @@
-# 0x41290a52392cf126015a272fd0a26f08d0c51ad20191902d48632ea758131eb1
 
-![alt text](image.png)
 # TaskAutomation Smart Contract
 
 ## Vision
